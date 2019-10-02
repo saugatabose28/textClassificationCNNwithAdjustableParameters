@@ -3,9 +3,9 @@
 1. Name of Dataset
 The value is either a single name or a combination of names seperated by comma. The names are: davidson, waseem and stanford
 <br>example1: davidson
-<br><br>example2: davidson, waseem
-<br><br>example3: davidson, waseem, stanford
-2. N<br>ame of Embedding:
+<br><example2: davidson, waseem
+<br>example3: davidson, waseem, stanford
+2. Name of Embedding:
 The <br>value will be a string. Name of the embedding models implemented in the project: The names are: glove, fasttext and another embe<br>dding which was trained on the working dataset named as own
 <br><br>example1: glove
 <br>example2: fasttext
