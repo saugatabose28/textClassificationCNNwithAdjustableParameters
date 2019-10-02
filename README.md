@@ -56,3 +56,5 @@ The value is an integer
 The value is an integer
 <br>
 <br> B) The result will be stored automatically in the file named, 'Performance Report for CNN_differnet.csv'
+<br>
+<br> You need to download the dataset,glove twitter embedding, fasttext embedding from the one drive link
