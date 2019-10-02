@@ -1,6 +1,6 @@
-For executing the program we need to run the file named: proposedModel.m 
+**For executing the program we need to run the file named: proposedModel.m**
 A) Input has been listed in the file, named parameters.txt. The inputs are listed in as follows:
-a) Name of Dataset
+1. Name of Dataset
 The value is either a single name or a combination of names seperated by comma. The names are: davidson, waseem and stanford
 example1: davidson
 example2: davidson, waseem
